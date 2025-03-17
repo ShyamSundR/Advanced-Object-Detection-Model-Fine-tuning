@@ -1,0 +1,2 @@
+Implemented and fine-tuned two state-of-the-art object detection models (Faster R-CNN and DETR) on Pascal VOC dataset using PyTorch and Detectron2, achieving 15% improvement in AP50 scores over baseline models
+Optimized training pipeline with TensorBoard integration for loss visualization and developed automated data conversion workflow from VOC to COCO format, reducing preprocessing time by 40% for 11,000+ training images
